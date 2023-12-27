@@ -22,3 +22,7 @@ Run all tests file in project.
 ### `npm run coverage`
 
 Get test coverage.
+
+# What you need to do
+
+Follow TODOs `// TODO` in the project and implement them
